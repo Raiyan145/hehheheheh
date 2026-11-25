@@ -1,0 +1,6 @@
+{
+  "name": "Friends Chase",
+  "description": "A 3D endless runner game where you outrun 3 to 4 AI-controlled friends across dynamic urban courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
